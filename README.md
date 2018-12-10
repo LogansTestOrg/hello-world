@@ -1,4 +1,6 @@
 # hello-world
 Hello Word Repository
+Logan's changes on 10-Dec-2018
 
-Second change made on Oct 10th
+
+My third change
